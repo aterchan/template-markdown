@@ -1,12 +1,17 @@
-# (project name)
+# (my profile)
 
-<!-- describe your project -->
+<!-- I would like see my pic -->
+
+![image](https://avatars.githubusercontent.com/u/93641986?v=4)
+
+Iam passionate about technology because computer technology never stops evolving
+. It's my wish to be called software coder and programmer.
 
 ## Getting Started
 
-<!-- a guide to using this repository -->
+<!-- I would like to view my profile pic on git -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
+1. `git clone git@github.com:HackYourFutureBelgium/<my profile pic>.git`
 2. `cd project-name`
 3. `npm install`
 
